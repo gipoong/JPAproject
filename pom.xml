@@ -44,6 +44,13 @@
             <version>3.5.10</version>
         </dependency>
 
+        <!-- 하이버네이트 -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>5.4.9.Final</version>
+        </dependency>
+
     </dependencies>
 
 </project>
